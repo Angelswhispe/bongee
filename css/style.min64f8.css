@@ -11,15 +11,18 @@
 }
 
 :root {
-    --c1: #6F3CFF;
-    --cv: #6F3CFF;
-    --c2: #6F3CFF;
-    --cp: #6F3CFF;
+    --c1: #0063FF;
+    --cv: #0063FF;
+    --c2: #0063FF;
+    --cp: #0063FF;
     --c3: #FFC700;
     --cy: #FFC700;
-    --cn1: #170429;
+    --cn1: #0063FF;
     --cn2: #FFC700;
-    --cn3: #FF54CF
+    --cn3: #0063FF;
+}
+._container {
+    background-image: '../img/hero.jpg';
 }
 
 [data-fullscreen] {
@@ -302,7 +305,7 @@ address {
 }
 
 :root {
-    --swiper-theme-color: #007aff
+    --swiper-theme-color: #007aff;
 }
 
 .swiper {
