@@ -1794,9 +1794,9 @@ body {
     z-index: 100;
     width: 100%;
     width: 100svw;
-    background: -webkit-gradient(linear, left top, left bottom, color-stop(14.3%, #1d093b), to(rgba(29, 9, 59, 0)));
-    background: -o-linear-gradient(top, #1d093b 14.3%, rgba(29, 9, 59, 0) 100%);
-    background: linear-gradient(180deg, #1d093b 14.3%, rgba(29, 9, 59, 0) 100%)
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(14.3%, #0063FF), to(rgba(29, 9, 59, 0)));
+    background: -o-linear-gradient(top, #0063FF 14.3%, rgba(29, 9, 59, 0) 100%);
+    background: linear-gradient(180deg, #0063FF 14.3%, rgba(29, 9, 59, 0) 100%)
 }
 
 .header__container {
