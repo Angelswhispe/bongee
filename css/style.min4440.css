@@ -311,6 +311,11 @@ address {
     background-image: none;
     
 }
+.mintimg {
+    /* background-color: #0063FF; */
+    width: 80%;
+}
+
 }
 
 @font-face {
@@ -2650,7 +2655,8 @@ body {
     }
 
     .main__btn-mint {
-        background-color: #fff
+        width: 50%;
+        background-color: #0063FF
     }
 
     .mint-m__upcoming {
@@ -2716,9 +2722,10 @@ body {
 
     .main__btn-mint {
         margin: 0 auto;
-        background-color: #fff;
+        background-color: #0063FF;
         display: inline-block;
-        padding: 1em 1.25em
+        padding: 1em 1.25em;
+        width: 50%;
     }
 
     .mint-m {
@@ -3187,7 +3194,7 @@ body {
         position: relative;
         z-index: 1
     }
-
+   
     .step__h-ttl {
         font-size: 1.875em;
         font-weight: 600;
