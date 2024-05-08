@@ -10,20 +10,6 @@
     font-style: normal
 }
 
-@media screen and (min-width: 300px) and (max-width: 425px) {
-    .thero {
-        position: relative;
-        top: -20pc;
-    }
-    .main__container {
-    background-image: none;
-    
-}
-/* .mint-m {
-    position: relative;
-    top: 130px;
-} */
-}
 
 :root {
     --c1: #0063FF;
@@ -5898,3 +5884,20 @@ body {
     will-change: scroll-position
 }
 
+
+
+
+@media screen and (min-width: 300px) and (max-width: 425px) {
+    .thero {
+        position: relative;
+        top: -20pc;
+    }
+    .main__container {
+    background-image: none;
+    
+}
+/* .mint-m {
+    position: relative;
+    top: 130px;
+} */
+}
