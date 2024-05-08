@@ -105,8 +105,10 @@
     padding: 0;
     border: 0;
     background-repeat: no-repeat;
-    background-position: 50%;
-    background-size: cover;
+    background-position: 97%;
+    /* background-size: cover; */
+    background-position-y: 100%;
+    background-position-x: 100%;
     scroll-behavior: smooth
 }
 
@@ -3086,7 +3088,7 @@ body {
 
     .collection__container {
         padding-bottom: 1.5625rem;
-        margin-top: -2.5rem
+        margin-top: -24.5rem
     }
 
     .collection__ttl-list:not(:last-child) {

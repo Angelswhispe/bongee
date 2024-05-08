@@ -5887,18 +5887,3 @@ body {
     will-change: scroll-position
 }
 
-
-@media screen and (min-width: 300px) and (max-width: 500px) {
-    .thero {
-        position: relative;
-        top: -20pc;
-    }
-    .main__container {
-    background-image: none;
-    
-}
-/* .mint-m {
-    position: relative;
-    top: 130px;
-} */
-}
