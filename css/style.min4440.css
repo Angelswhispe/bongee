@@ -19,7 +19,7 @@
     --cy: #FFC700;
     --cn1: #0063FF;
     --cn2: #FFC700;
-    --cn3: #0063FF;
+    --cn3: #FFC700;
 }
 
 .main__container {
@@ -5883,7 +5883,7 @@ body {
     will-change: scroll-position
 }
 
-@media (max-width: 425px) {
+@media screen and (min-width: 300px) and (max-width: 425px) {
     .thero {
         position: relative;
         top: -20pc;
