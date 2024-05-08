@@ -5887,7 +5887,7 @@ body {
 
 
 
-@media screen and (min-width: 0px) and (max-width: 426px) {
+@media screen and (min-width: 0px) and (max-width: 500px) {
     .thero {
         position: relative;
         top: -20pc;
