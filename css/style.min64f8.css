@@ -296,6 +296,14 @@ address {
     ._container {
         padding: 0 .9375rem
     }
+    .thero {
+        position: relative;
+        top: -20pc;
+    }
+    .main__container {
+    background-image: none;
+    
+}
 }
 
 @font-face {
